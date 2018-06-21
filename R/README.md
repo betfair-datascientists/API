@@ -15,6 +15,9 @@ The abettor package can be downloaded [here](https://github.com/phillc73/abettor
 ## Get World Cup Odds Tutorial
 This tutorial walks you through the process of retrieving exchange odds for all the matches from the upcoming FIFA World Cup 2018. This can be modified for other sports and uses.
 
+## AFL Odds PulleR Tutorial
+This tutorial walks you through the process of retrieving exchange odds for the the next round of Australian Rules.
+
 ## Login to Betfair
 To login to betfair, replace the following dummy username, password and app key with your own.
 ```R
