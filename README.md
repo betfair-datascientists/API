@@ -1,7 +1,7 @@
 # API
 
 ## Description
-This repo showcases Betfair's API and how to use it. It will utilise the [abettor](https://github.com/phillc73/abettor) package in R to simplify using the API and the [betfairlightweight]https://github.com/liampauling/betfair() package in Python.
+This repo showcases Betfair's API and how to use it. It will utilise the [abettor](https://github.com/phillc73/abettor) package in R to simplify using the API and the [betfairlightweight](https://github.com/liampauling/betfair) package in Python.
 
 ## Examples
 * Examples in R can be found [here](https://github.com/betfair-datascientists/API/tree/master/R).
